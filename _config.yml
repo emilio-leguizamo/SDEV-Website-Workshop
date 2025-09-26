@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+lio# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
@@ -18,8 +18,8 @@ email: sean.reese@columbia.edu #CHANGE THIS
 description: >- # this means to ignore newlines until "baseurl:"
   [EDIT ME] BLAH BLAH BLAH BLAH #CHANGE THIS
 # twitter_username: 
-github_username: sean-reese #CHANGE THIS 
-minimal_mistakes_skin: dirt #CHANGE THIS
+github_username: emilio-leguizamo #CHANGE THIS 
+minimal_mistakes_skin: contrast #CHANGE THIS
 search: false
 
 # Build settings
@@ -56,10 +56,10 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Sean Reese" #CHANGE THIS
+  name   : "Emilio Leguízamo" #CHANGE THIS
   avatar : "/assets/images/smile.jpeg" #CHANGE THIS
   bio    : "PhD Student at Columbia University" #CHANGE THIS
-  email  : "sean.reese@columbia.edu" #CHANGE THIS
+  email  : "emi@columbia.edu" #CHANGE THIS
   links:
     - label: "Google Scholar"
       icon: "fas fa-fw fa-link"
@@ -69,7 +69,7 @@ author:
 #      url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sean-reese" #CHANGE THIS
+      url: "https://github.com/emilio-leguizamo" #CHANGE THIS
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
